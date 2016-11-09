@@ -1,0 +1,91 @@
+.body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+
+.img--big {
+    background: url(Img/12772915_10208685908655910_526582568_o.jpg) no-repeat left top;
+    width: 533px;
+    height: 800px;
+   margin:0;
+    float: left;
+}
+
+.form {
+    width: 250px;
+    height: 200px;
+    background-color:#FFFFFF;
+    position: absolute;
+    padding: 55px 0 0 55px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40pt;
+    font-weight: 900;
+    font-style: bold;
+    text-transform: uppercase;
+    color: #000000;
+   margin: 450px 0 0 370px;
+    clear: both;
+    line-height: 1.5;
+}
+
+
+.btn {
+    width: 50px;
+    height: 50px;
+    background-color: #FFFFFF;
+    padding: 4px 0 0 0;
+    border: 1px solid #FFFFFF;
+    border-radius: 2px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14pt;
+    font-weight: 500;
+    color: #000000;
+    text-decoration: none;
+    position: absolute;
+    clear: both;
+    margin: 730px 0 0 385px;
+    display: block;
+    float: left;
+    border-radius: 4px;
+    
+}
+
+.p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 90pt;
+    font-weight: 100;
+    color: #000000;
+    line-height: 1.2;
+    margin: 0px 0 0 580px;
+}
+
+.p--light {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18pt;
+    font-weight: 100;
+    color: #000000;
+    line-height: 1.3;
+    margin: 15px 0 0 800px;
+    width: 400px;
+}
+
+.img {
+    background: url(Img/facebook.png);
+    width: 50px;
+    height: 50px;
+    display: block;
+    clear: both;
+    position: absolute;
+    float: left;
+    margin: 730px 0 0 460px;
+    border-radius: 4px;
+}
+.nav__el--actif a,
+	.nav__el a:hover,
+	.nav__el a:focus {
+		opacity: 1;
+		outline: 0; 
+        overflow: hidden;
+	}
